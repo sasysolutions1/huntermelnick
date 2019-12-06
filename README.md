@@ -1,3 +1,5 @@
+Hotel.html and Hotel.js
+
 First sending a json with owner and repo which is concatenated and sent in a call to the /hotel POST
 reqPullRequest runs and sends a call to the github api for the pull request and then stores the login, 
 commits url and comments url in an object and then stores that object in an array. 
